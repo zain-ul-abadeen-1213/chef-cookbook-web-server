@@ -1,0 +1,3 @@
+{
+  "run_list": ["recipe[zain_web::default]"]
+}
